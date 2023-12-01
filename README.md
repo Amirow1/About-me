@@ -1,0 +1,4 @@
+- Hi, I’m @Amirow1/Amirreza Alijan
+- i'm Python Proggramer 
+- I’m currently learning Html , css , js...
+- my target is to be full stack programmer
